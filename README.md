@@ -22,8 +22,3 @@ This repository contains resources, notes, and examples to help you get started 
 - **Examples**: Sample notebooks and code snippets for common use cases.
 - **Resources**: Links to tutorials, blogs, and videos for deeper learning.
 
-## Getting Started
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/azure-databricks-docs.git
